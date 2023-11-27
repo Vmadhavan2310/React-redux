@@ -1,0 +1,18 @@
+Redux:-
+Redux is state management tool used for many libraries like react, angular and vue.js
+
+As we know react can maintain own state for every component but its hard to keept the state available for all components
+
+Redux has been introduced in 2015 and later react introduces use reducer and context API.
+
+Redux has three major things:-
+1.Store-Holds the state of your application.
+2.action-describes the changes in your state
+3.reducer-carries out the state transition depending on your state action.
+
+Redux Principles:-
+1.State of your application is stored in object tree within a single store.
+2.Only way to change the store is emit an action, an object describes what happened.(store is read only mode)
+3.To specify how the state tree is transformed by action, write a pure reducer..
+
+Javascript app----->Dispatch Action------->Reducer---------->Redux Store------------>Javascript
