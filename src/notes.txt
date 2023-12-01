@@ -15,5 +15,5 @@ Redux Principles:-
 2.Only way to change the store is emit an action, an object describes what happened.(store is read only mode)
 3.To specify how the state tree is transformed by action, write a pure reducer..
 
-Javascript app----->Dispatch Action------->Reducer---------->Redux Store------------>Javascript
+Javascript app----->Dispatch Action------->Reducer---------->Redux Store------------>Javascripts
 looking for conflicts between merge and develop
