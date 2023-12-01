@@ -16,3 +16,4 @@ Redux Principles:-
 3.To specify how the state tree is transformed by action, write a pure reducer..
 
 Javascript app----->Dispatch Action------->Reducer---------->Redux Store------------>Javascript
+looking for conflicts between merge and develop
